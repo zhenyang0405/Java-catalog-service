@@ -11,4 +11,3 @@ public class HomeController {
         return "Welcome to the book catalog!";
     }
 }
-hit
